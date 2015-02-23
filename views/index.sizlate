@@ -22,7 +22,7 @@
     <h2>Talks</h2>
     <ul>
       <li><a href="https://twitter.com/ForbesLindesay">Forbes Lindesay</a> - Everything you didn't know to ask about jade</li>
-      <li><a href="https://twitter.com/lukeb0nd">Luke Bond</a> - Service discovery for your Node.js applications</li>
+      <li><a href="https://twitter.com/lukeb0nd">Luke Bond</a> - Paz: a simple Docker PaaS written in Node.js</li>
       <li><a href="https://twitter.com/basicallydan">Dan Hough</a> - I'm a node module maintainer and so can you be!</li>
     </ul>
 
