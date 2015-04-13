@@ -61,7 +61,8 @@
         <a href="http://www.lyst.com/">Lyst - Your world of fashion.</a>
       </li>-->
       <li class="gocardless">
-        <a href="https://gocardless.com/"><img src='/images/gocardless.png' width="36" height="36"> Recurring payments made simple.</a>
+        <a href="https://gocardless.com/"><img src='/images/gocardless.png' width="36" height="36"></a>
+        <a href="https://gocardless.com/">Recurring payments made simple.</a>
       </li>
     </ul>
     <h2>The Venue</h2>
