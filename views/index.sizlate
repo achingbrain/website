@@ -21,7 +21,6 @@
 
     <h2>Talks</h2>
     <ul>
-     <!--  <li>ohjames - The state of web asset pipelines and the description of a new pipeline that combines the best of all worlds</li> -->
       <li><a href="https://twitter.com/james_allardice">James Allardice</a> - Writing and publishing ES6 code today</li>
       <li><a href="https://twitter.com/simonmcmanus">Simon McManus</a> - Progressive Enhancement Strategies</li>
       <li><a href="https://twitter.com/achingbrain">alexp</a> - Guvnor: running your processes like a boss</li>
@@ -56,18 +55,16 @@
         <a class='yld_logo' href='http://yld.io?lovefrom=lnug&src=img'>
           <img src='/images/yld.png' alt='Yld — Node.js Performance Consulting' width="36" height="36">
         </a>
-
         <a href='http://yld.io?lovefrom=lnug&src=text'>High Performance Node.js</a>
       </li>
-      <li class='lyst'>
+      <!--<li class='lyst'>
         <a href="http://www.lyst.com/">Lyst - Your world of fashion.</a>
-      </li>
+      </li>-->
       <li class="gocardless">
         <a href="https://gocardless.com/"><img src='/images/gocardless.png' width="36" height="36"> Recurring payments made simple.</a>
       </li>
     </ul>
     <h2>The Venue</h2>
-    <!-- <iframe width="870" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2482.2326803506344!2d-0.08136299999999999!3d51.527291999999996!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761cbac5a72401%3A0x4e966e554dedde10!2sLyst+Studios!5e0!3m2!1sen!2suk!4v1415152883702"></iframe> -->
     <div id='map'>
       <a href='https://www.google.co.uk/maps?t=m&q=51.5306%2C-0.103554+%28GoCardless%2C+EC1V+7LQ%29&output=classic' target='_blank' title='View on Google Maps'>
         <img src='http://maps.googleapis.com/maps/api/staticmap?center=51.5306,-0.103554&amp;markers=color:red%7Ccolor:red%7Clabel:F%7C51.53794,-0.136700&amp;sensor=false&amp;zoom=15&amp;size=288x180&amp;maptype=roadmap'>
@@ -98,13 +95,7 @@
       <br />
       338-346 Goswell Road, EC1V 7LQ
     </address>
-    <!-- <address>
-      Shoreditch Village Hall,
-      <br>
-      33 Hoxton Square, N1 6NN
-    </address> -->
-
-    <h3>    </h3>
+    <h3></h3>
       <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/LNUGorg"  data-widget-id="421953882047016960">Tweets by @LNUGorg</a>
       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
